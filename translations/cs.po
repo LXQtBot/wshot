@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-03 15:12+0100\n"
+"PO-Revision-Date: 2025-10-12 19:27+0000\n"
+"Last-Translator: p-bo <pavel.borecki@gmail.com>\n"
+"Language-Team: Czech <https://translate.lxqt-project.org/projects/qtilities/"
+"wshot/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.2.1\n"
+
+#: wshot.sh:8
+msgid "Options"
+msgstr "Předvolby"
+
+#: wshot.sh:9
+msgid "Mode"
+msgstr "Režim"
+
+#: wshot.sh:10
+msgid "Full screen"
+msgstr "Celá obrazovka"
+
+#: wshot.sh:11
+msgid "Selected area"
+msgstr "Vybraná oblast"
+
+#: wshot.sh:12
+msgid "Selected window"
+msgstr "Vybrané okno"
+
+#: wshot.sh:13
+msgid "Include cursor"
+msgstr "Včetně ukazatele"
+
+#: wshot.sh:14
+msgid "no"
+msgstr "ne"
+
+#: wshot.sh:15
+msgid "yes"
+msgstr "ano"
+
+#: wshot.sh:16
+msgid "Delay"
+msgstr "Prodleva"
+
+#: wshot.sh:17
+msgid "Destination"
+msgstr "Cíl"
+
+#: wshot.sh:18
+msgid "Save file"
+msgstr "Uložit soubor"
+
+#: wshot.sh:19
+msgid "Clipboard"
+msgstr "Schránka"
+
+#: wshot.sh:20
+msgid "Custom filename:"
+msgstr "Uživatelsky určený název souboru:"
+
+#: wshot.sh:21
+msgid "File type"
+msgstr "Typ souboru"
+
+#: wshot.sh:22
+msgid "Open saved result"
+msgstr "Otevřít uložený výsledek"
+
+#: wshot.sh:23
+msgid "Screenshot copied to clipboard"
+msgstr "Snímek obrazovky zkopírován do schránky"
+
+#: wshot.sh:24
+msgid "Screenshot saved as"
+msgstr "Snímek obrazovky uložen jako"
+
+#: wshot.sh:25
+msgid "Compositor does not support automatic window detection."
+msgstr "Kompozitor nepodporuje automatické zjišťování okna."

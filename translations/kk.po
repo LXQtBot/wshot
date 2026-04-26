@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-03 15:12+0100\n"
+"PO-Revision-Date: 2026-04-03 16:28+0000\n"
+"Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
+"Language-Team: Kazakh <https://translate.lxqt-project.org/projects/qtilities/"
+"wshot/kk/>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2.1\n"
+
+#: wshot.sh:8
+msgid "Options"
+msgstr "Опциялар"
+
+#: wshot.sh:9
+msgid "Mode"
+msgstr "Режим"
+
+#: wshot.sh:10
+msgid "Full screen"
+msgstr "Толық экран"
+
+#: wshot.sh:11
+msgid "Selected area"
+msgstr "Таңдалған аймақ"
+
+#: wshot.sh:12
+msgid "Selected window"
+msgstr "Таңдалған терезе"
+
+#: wshot.sh:13
+msgid "Include cursor"
+msgstr "Курсорды қоса"
+
+#: wshot.sh:14
+msgid "no"
+msgstr "жоқ"
+
+#: wshot.sh:15
+msgid "yes"
+msgstr "иә"
+
+#: wshot.sh:16
+msgid "Delay"
+msgstr "Кідіріс"
+
+#: wshot.sh:17
+msgid "Destination"
+msgstr "Мақсат"
+
+#: wshot.sh:18
+msgid "Save file"
+msgstr "Файлды сақтау"
+
+#: wshot.sh:19
+msgid "Clipboard"
+msgstr "Алмасу буфері"
+
+#: wshot.sh:20
+msgid "Custom filename:"
+msgstr "Өзгертілген файл аты:"
+
+#: wshot.sh:21
+msgid "File type"
+msgstr "Файл түрі"
+
+#: wshot.sh:22
+msgid "Open saved result"
+msgstr "Сақталған нәтижені ашу"
+
+#: wshot.sh:23
+msgid "Screenshot copied to clipboard"
+msgstr "Скриншот алмасу буферіне көшірілді"
+
+#: wshot.sh:24
+msgid "Screenshot saved as"
+msgstr "Скриншот келесідей сақталды"
+
+#: wshot.sh:25
+msgid "Compositor does not support automatic window detection."
+msgstr "Композитор терезелерді автоматты түрде анықтауды қолдамайды."
