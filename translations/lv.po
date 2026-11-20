@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-03 15:12+0100\n"
+"PO-Revision-Date: 2026-11-20 13:30+0000\n"
+"Last-Translator: rprieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <https://translate.lxqt-project.org/projects/"
+"qtilities/wshot/lv/>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
+"19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: Weblate 4.2.1\n"
+
+#: wshot.sh:8
+msgid "Options"
+msgstr "Opcijas"
+
+#: wshot.sh:9
+msgid "Mode"
+msgstr "Režīms"
+
+#: wshot.sh:10
+msgid "Full screen"
+msgstr "Viss ekrāns"
+
+#: wshot.sh:11
+msgid "Selected area"
+msgstr "Atlasītais apgabals"
+
+#: wshot.sh:12
+msgid "Selected window"
+msgstr "Atlasītais logs"
+
+#: wshot.sh:13
+msgid "Include cursor"
+msgstr "Iekļaut kursoru"
+
+#: wshot.sh:14
+msgid "no"
+msgstr "nē"
+
+#: wshot.sh:15
+msgid "yes"
+msgstr "jā"
+
+#: wshot.sh:16
+msgid "Delay"
+msgstr "Aizture"
+
+#: wshot.sh:17
+msgid "Destination"
+msgstr "Mērķis"
+
+#: wshot.sh:18
+msgid "Save file"
+msgstr "Saglabāt failu"
+
+#: wshot.sh:19
+msgid "Clipboard"
+msgstr "Starpliktuve"
+
+#: wshot.sh:20
+msgid "Custom filename:"
+msgstr "Pielāgots faila nosaukums:"
+
+#: wshot.sh:21
+msgid "File type"
+msgstr "Faila tips"
+
+#: wshot.sh:22
+msgid "Open saved result"
+msgstr "Atvērt saglabāto rezultātu"
+
+#: wshot.sh:23
+msgid "Screenshot copied to clipboard"
+msgstr "Ekrānuzņēmums nokopēts starpliktuvē"
+
+#: wshot.sh:24
+msgid "Screenshot saved as"
+msgstr "Ekrānuzņēmums saglabāts kā"
+
+#: wshot.sh:25
+msgid "Compositor does not support automatic window detection."
+msgstr "Kompozitors neatbalsta automātisku logu noteikšanu."
